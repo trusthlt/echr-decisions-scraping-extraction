@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.3
+requests==2.25.1
+feedparser==6.0.2
+# for XMI
+# dkpro-cassis==0.5.1
+# for tokenization
+# spacy==3.0.5

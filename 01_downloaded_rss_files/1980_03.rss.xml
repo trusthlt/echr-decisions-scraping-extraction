@@ -1,0 +1,53 @@
+<rss version="2.0">
+    <channel>
+        <title>ECHR HUDOC Search Feed</title>
+        <description>ECHR HUDOC Search Feed</description>
+        <link>http://hudoc.echr.coe.int/eng</link>
+        <lastBuildDate>28/02/2021</lastBuildDate>
+        <pubDate>28/02/2021</pubDate>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-57469"]}</link>
+        </item>
+        <item>
+            <title>AFFAIRE DEWEER c. BELGIQUE</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-62027"]}</link>
+        </item>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM - [Serbian Translation]</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-94245"]}</link>
+        </item>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM - [Russian Translation]</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-100648"]}</link>
+        </item>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM - [Spanish Translation] summary by the Spanish Cortes Generales</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-165158"]}</link>
+        </item>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM - [Slovenian Translation] by the Constitutional Court of the Republic of
+                Slovenia
+            </title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-173758"]}</link>
+        </item>
+        <item>
+            <title>CASE OF DEWEER v. BELGIUM - [German Translation] summary by N. P. Engel Verlag</title>
+            <pubDate>Wed, 27 Feb 1980 00:00:00 GMT</pubDate>
+            <description>6903/75 - Chamber Judgment</description>
+            <link>http://hudoc.echr.coe.int/eng#{"itemid":["001-188097"]}</link>
+        </item>
+    </channel>
+</rss>
